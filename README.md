@@ -38,6 +38,9 @@ Screenshots of the website:
 
 ![Screenshot (341)](https://github.com/Jayanthsai08/Ecommerce-Website/assets/134363459/221cc63d-427f-418e-a992-0a40edbc3704)
 
+![Screenshot (338)](https://github.com/Jayanthsai08/Ecommerce-Website/assets/134363459/28db1936-1a2f-4aeb-a979-3148072d46d8)
+
+
 ![Screenshot (339)](https://github.com/Jayanthsai08/Ecommerce-Website/assets/134363459/19f5a534-ac92-4586-bd6e-1d1869a92bc3)
 
 ![Screenshot (340)](https://github.com/Jayanthsai08/Ecommerce-Website/assets/134363459/b437b3b9-bf8d-4f14-9de9-2e3a207dea41)
