@@ -36,16 +36,15 @@ Screenshots of the website:
 
 ![Screenshot (334)](https://github.com/Jayanthsai08/Ecommerce-Website/assets/134363459/e6265354-5d5f-4150-91f5-b73386410ea1)
 
+![Screenshot (341)](https://github.com/Jayanthsai08/Ecommerce-Website/assets/134363459/221cc63d-427f-418e-a992-0a40edbc3704)
+
 ![Screenshot (339)](https://github.com/Jayanthsai08/Ecommerce-Website/assets/134363459/19f5a534-ac92-4586-bd6e-1d1869a92bc3)
 
 ![Screenshot (340)](https://github.com/Jayanthsai08/Ecommerce-Website/assets/134363459/b437b3b9-bf8d-4f14-9de9-2e3a207dea41)
 
-![Screenshot (341)](https://github.com/Jayanthsai08/Ecommerce-Website/assets/134363459/221cc63d-427f-418e-a992-0a40edbc3704)
-
 ![Screenshot (342)](https://github.com/Jayanthsai08/Ecommerce-Website/assets/134363459/8195a2fa-8d71-4df8-be9e-904ecd563ca4)
 
 ![Screenshot (361)](https://github.com/Jayanthsai08/Ecommerce-Website/assets/134363459/447593f0-d796-484a-90fe-230520d26cdd)
-
 
 ![Screenshot (338)](https://github.com/Jayanthsai08/Ecommerce-Website/assets/134363459/7a297ebc-33ee-4fb9-a616-1e1839e86784)
 
