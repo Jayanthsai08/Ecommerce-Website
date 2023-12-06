@@ -26,5 +26,5 @@ This eCommerce website project can be used as a foundation for developing an onl
 Contributions:
 
 Contributions are welcome! Feel free to suggest improvements, report bugs, or add new features via pull requests.
-![Screenshot (329)](https://github.com/Jayanthsai08/Ecommerce-Website/assets/134363459/8ba3907f-7aca-4de0-920d-56cc7842166a)
+
 
